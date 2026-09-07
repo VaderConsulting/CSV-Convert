@@ -1,6 +1,6 @@
 # CSV Convert
 
-VB6 working copy of `CSV Convert` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Project1. `VersionCompanyName`: CSC.
+CSC VB6 batch CSV rewriter (`CSV Convert.vbp`): Tools → Convert walks a source folder of site CSVs and writes copies that append Drive6(U)/Drive7(V)/Drive6(W) header columns (with `na` fillers). Open `CSV Convert.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
